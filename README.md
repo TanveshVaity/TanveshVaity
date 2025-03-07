@@ -10,7 +10,7 @@ I'm currently learning Next.js and Cloud technologies<br>Love watch videos about
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,express,java,js,linux,mongodb,nextjs,postgres, react, ts, tailwind" />
+        <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,express,java,js,linux,mongodb,nextjs,postgres,react,ts,tailwind,nodejs" />
     </a>
 </p>
 
