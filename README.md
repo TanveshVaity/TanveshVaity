@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Tanvesh Vaity
 
 # 💫 About Me:
-I'm currently learning Next.js and Cloud technologies<br>Love watch videos about new technologies
+🚀I'm currently learning Next.js and Cloud technologies<br>⚡️Love watching videos about new technologies
 
 
 ## 🌐 Socials:
